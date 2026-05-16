@@ -40,6 +40,15 @@ Displays trip distribution using map visualization.
 The dataset used in this project is included as:
 `Ride_Booking_Raw_Data.xlsx`
 
+The dataset used in this project was obtained from Kaggle for learning and analytics purposes.
+
+---
+
+# Dataset Source
+
+The dataset used in this project was obtained from Kaggle for learning and analytics purposes.
+
+
 ---
 
 # Files Included
